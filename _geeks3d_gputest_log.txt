@@ -1,0 +1,55 @@
+2022:08:26@20:41:41(0000000001) < > GpuTest (Linux x64) is starting up...
+2022:08:26@20:41:41(0000000002) < > GpuTest: Cross Platform Graphics Benchmark Utility
+2022:08:26@20:41:41(0000000003) < > (C)2012-2014 Geeks3D (www.geeks3d.com)
+2022:08:26@20:41:41(0000000004) < > Linux information:
+2022:08:26@20:41:41(0000000005) < > - sysname: Linux
+2022:08:26@20:41:41(0000000006) < > - release: 5.18.19-xanmod1
+2022:08:26@20:41:41(0000000007) < > - version: #0~20220821.git1e28190 SMP Sun Aug 21 18:48:36 UTC 2022
+2022:08:26@20:41:41(0000000008) < > - machine: x86_64
+2022:08:26@20:41:41(0000000009) < > gxl3d codename: Zhald.
+2022:08:26@20:41:41(0000000010) <!> OpenCL support not found: unable to load the OpenCL core library (libOpenCL.so).
+2022:08:26@20:41:41(0000000011) < > gxl3d_plugin_gpu_monitor_gml: GPU monitor plugin for gxl3d.. By JeGX / Geeks3D.com
+2022:08:26@20:41:41(0000000012) < > [GpuMonitor plugin] Linux - CPU name: AMD Ryzen 7 4800H with Radeon Graphics, CPU speed: 2900MHz, RAM: 15419MB
+2022:08:26@20:41:42(0000000013) < > [GpuMonitor plugin] Num GPUs found: 2
+2022:08:26@20:41:42(0000000014) < > [GpuMonitor plugin] GPU0 - NVIDIA Corporation TU116M [GeForce GTX 1660 Ti Mobile] (rev a1)
+
+2022:08:26@20:41:42(0000000015) < > [GpuMonitor plugin] GPU0 - PCI codes: 0x10DE-0x2191
+2022:08:26@20:41:42(0000000016) < > [GpuMonitor plugin] GPU1 - Advanced Micro Devices, Inc. [AMD/ATI] Renoir (rev c6)
+
+2022:08:26@20:41:42(0000000017) < > [GpuMonitor plugin] GPU1 - PCI codes: 0x1002-0x1636
+2022:08:26@20:41:42(0000000018) < > GPU monitoring thread started.
+2022:08:26@20:41:42(0000000019) < > Display size: width=1920, height=1080
+2022:08:26@20:41:42(0000000020) < > Window size: width=1280, height=720, left=0, top=0
+2022:08:26@20:41:42(0000000021) < > FurMark - OpenGL renderer init OK.
+2022:08:26@20:41:42(0000000022) < > FurMark - VSYNC disabled (xxx_SwapInterval_xxx available).
+2022:08:26@20:41:42(0000000023) < > FurMark - OpenGL version detected: 4.6
+2022:08:26@20:41:42(0000000024) < > FurMark - # OpenGL extensions: 429
+2022:08:26@20:41:42(0000000025) < > FurMark - OpenGL - Renderer model: NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2
+2022:08:26@20:41:42(0000000026) < > FurMark - OpenGL - Renderer vendor: NVIDIA Corporation
+2022:08:26@20:41:42(0000000027) < > FurMark - OpenGL - API version: 4.6.0 NVIDIA 515.65.01
+2022:08:26@20:41:42(0000000028) < > FurMark - OpenGL - Shading language version: 4.60 NVIDIA
+2022:08:26@20:41:42(0000000029) < > FurMark : init OK.
+2022:08:26@20:42:46(0000000030) < > [Benchmark_Score] - module: FurMark - Score: 6966 points (1280x720 fullscreen, duration:60000 ms).
+2022:08:26@20:42:46(0000000031) < > Exit from render thread
+2022:08:26@20:42:46(0000000032) < > # frames rendered: 6966
+2022:08:26@20:42:46(0000000033) < > GpuTest 0.7.0
+http://www.geeks3d.com
+
+Module: FurMark
+Score: 6966 points (FPS: 116)
+
+Settings:
+- 1280x720 fullscreen
+- antialiasing: Off
+- duration: 60000 ms
+
+Renderer:
+- NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2
+- OpenGL: 4.6.0 NVIDIA 515.65.01
+2022:08:26@20:42:54(0000000034) < > Submitting score data to Geeks3D server...
+2022:08:26@20:42:55(0000000035) < > GPU database submit ID: 946665
+2022:08:26@20:42:55(0000000036) < > Score submitted OK.
+2022:08:26@20:42:55(0000000037) < > Geeks3D GPU Database: GPU data successfully submitted.
+2022:08:26@20:42:56(0000000038) < > Stopping gxl3d engine...
+2022:08:26@20:42:56(0000000039) < > Exit from GpuTest.
+
