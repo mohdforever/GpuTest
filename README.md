@@ -1,6 +1,5 @@
 # GpuTest
 GPU stress test and OpenGL benchmark
-
 Geeks3D GpuTest - GPU stress test and OpenGL benchmark.
 Copyright (c) 2012-2014 Geeks3D, All rights reserved.
 
@@ -32,7 +31,8 @@ command:
 
 $ python gputest_gui.py  #for python2
 or
-$ python3 gputest_gui.py   #for python3
+$ python3 gputest_gui.py  #for python3
+
 
 Under some Linux distributions, you might need to install the 
 Tk package otherwise you will have:
@@ -50,7 +50,6 @@ To install the python-tk package, just enter in command line:
 $ sudo apt-get install python-tk
 or
 $ sudo apt-get install python3-tk
-
 
 
 
